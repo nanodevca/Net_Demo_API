@@ -1,0 +1,17 @@
+/Users/melahghislain/Desktop/Personal Projects/Net_Demo_API/SocialMedia.Application/bin/Debug/net7.0/SocialMedia.Application.deps.json
+/Users/melahghislain/Desktop/Personal Projects/Net_Demo_API/SocialMedia.Application/bin/Debug/net7.0/SocialMedia.Application.dll
+/Users/melahghislain/Desktop/Personal Projects/Net_Demo_API/SocialMedia.Application/bin/Debug/net7.0/SocialMedia.Application.pdb
+/Users/melahghislain/Desktop/Personal Projects/Net_Demo_API/SocialMedia.Application/bin/Debug/net7.0/SocialMedia.Dal.dll
+/Users/melahghislain/Desktop/Personal Projects/Net_Demo_API/SocialMedia.Application/bin/Debug/net7.0/SocialMedia.Domain.dll
+/Users/melahghislain/Desktop/Personal Projects/Net_Demo_API/SocialMedia.Application/bin/Debug/net7.0/SocialMedia.Domain.pdb
+/Users/melahghislain/Desktop/Personal Projects/Net_Demo_API/SocialMedia.Application/bin/Debug/net7.0/SocialMedia.Dal.pdb
+/Users/melahghislain/Desktop/Personal Projects/Net_Demo_API/SocialMedia.Application/obj/Debug/net7.0/SocialMedia.Application.csproj.AssemblyReference.cache
+/Users/melahghislain/Desktop/Personal Projects/Net_Demo_API/SocialMedia.Application/obj/Debug/net7.0/SocialMedia.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melahghislain/Desktop/Personal Projects/Net_Demo_API/SocialMedia.Application/obj/Debug/net7.0/SocialMedia.Application.AssemblyInfoInputs.cache
+/Users/melahghislain/Desktop/Personal Projects/Net_Demo_API/SocialMedia.Application/obj/Debug/net7.0/SocialMedia.Application.AssemblyInfo.cs
+/Users/melahghislain/Desktop/Personal Projects/Net_Demo_API/SocialMedia.Application/obj/Debug/net7.0/SocialMedia.Application.csproj.CoreCompileInputs.cache
+/Users/melahghislain/Desktop/Personal Projects/Net_Demo_API/SocialMedia.Application/obj/Debug/net7.0/SocialMedia.Application.csproj.CopyComplete
+/Users/melahghislain/Desktop/Personal Projects/Net_Demo_API/SocialMedia.Application/obj/Debug/net7.0/SocialMedia.Application.dll
+/Users/melahghislain/Desktop/Personal Projects/Net_Demo_API/SocialMedia.Application/obj/Debug/net7.0/refint/SocialMedia.Application.dll
+/Users/melahghislain/Desktop/Personal Projects/Net_Demo_API/SocialMedia.Application/obj/Debug/net7.0/SocialMedia.Application.pdb
+/Users/melahghislain/Desktop/Personal Projects/Net_Demo_API/SocialMedia.Application/obj/Debug/net7.0/ref/SocialMedia.Application.dll
