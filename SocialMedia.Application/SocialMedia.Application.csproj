@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.0" />
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="MediatR" Version="12.2.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="UserProfile\Commands\" />
+    <None Remove="UserProfile\CommandHandlers\" />
+    <None Remove="UserProfile\Queries\" />
+    <None Remove="UserProfile\QueryHandlers\" />
+    <None Remove="UserProfiles\" />
+    <None Remove="Posts\" />
+    <None Remove="Mapper\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="UserProfiles\Commands\" />
+    <Folder Include="UserProfiles\CommandHandlers\" />
+    <Folder Include="UserProfiles\Queries\" />
+    <Folder Include="UserProfiles\QueryHandlers\" />
+    <Folder Include="UserProfiles\" />
+    <Folder Include="Posts\" />
+    <Folder Include="Mapper\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SocialMedia.Domain\SocialMedia.Domain.csproj" />
+    <ProjectReference Include="..\SocialMedia.Dal\SocialMedia.Dal.csproj" />
+  </ItemGroup>
+</Project>

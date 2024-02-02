@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Aggregates\" />
+    <None Remove="Aggregates\UserProfileAggregate\" />
+    <None Remove="Aggregates\PostAggregate\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Aggregates\" />
+    <Folder Include="Aggregates\UserProfileAggregate\" />
+    <Folder Include="Aggregates\PostAggregate\" />
+  </ItemGroup>
+</Project>
