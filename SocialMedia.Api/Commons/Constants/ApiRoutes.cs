@@ -7,13 +7,13 @@ namespace SocialMedia.Api.Commons.Constants
 
 		public class UserProfile
 		{
-			public const string GetById = "{id}";
+			public const string IdRoute = "{id}";
 
         }
 
         public class Post
         {
-            public const string GetById = "{id}";
+            public const string IdRoute = "{id}";
 
         }
     }

@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "/U3t4OqQJAlyk11gyIajyIxXMjQt81PLPb05+D5DeU9WQihF3kCWC48+eAOQz20mD+J1luH3T8OKYDLdJ9e1OQ==",
+  "dgSpecHash": "FdKcdzNXmgGNyQLMtkcbFvph6fRCOXbspVykjGkQCFncsWglHCacNctKA0SXD7JpHgdz8jIYYlcRTR3Rs2HcNQ==",
   "success": true,
   "projectFilePath": "/Users/melahghislain/Desktop/Personal Projects/Net_Demo_API/SocialMedia.Api/SocialMedia.Api.csproj",
   "expectedPackageFiles": [
     "/Users/melahghislain/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/Users/melahghislain/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "/Users/melahghislain/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/Users/melahghislain/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",
     "/Users/melahghislain/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",

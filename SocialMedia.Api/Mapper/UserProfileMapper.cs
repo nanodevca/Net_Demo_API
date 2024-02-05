@@ -11,6 +11,7 @@ namespace SocialMedia.Application.Mapper
 		{
 			CreateMap<CreateUserProfileDto, CreateUserCommand>();
 			CreateMap<UserProfile, UserProfileResponseDto>();
+			CreateMap<BasicInfo, BasicInfoDto>();
 		}
 	}
 }
